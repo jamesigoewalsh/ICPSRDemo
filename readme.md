@@ -1,1 +1,1 @@
-This is a sample file for github repository.
+This is a sample file for github repository. Now I adding a second line of text. 
